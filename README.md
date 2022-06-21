@@ -1,2 +1,1 @@
-# 3-column-card
-A CSS flexbox of 3 columns
+ https://klaus139.github.io/3-column-card/
